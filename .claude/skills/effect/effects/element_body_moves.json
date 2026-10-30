@@ -1,0 +1,9 @@
+{
+ "name": "element_body_moves",
+ "description": "Contact-shadow-lift: cards on an oblique table are called one at a time; each rises on a growing, softening shadow and drops back with a micro-press; the last card springs up with an accent outline + check and hovers. Layout adapts to 16:9 and 9:16. Content comes from params.items.",
+ "duration": 5.0,
+ "timing": "once",
+ "tracks": {},
+ "plugin": "element_body_moves.py",
+ "params": {"background": "video"}
+}

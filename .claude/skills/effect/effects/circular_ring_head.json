@@ -1,0 +1,20 @@
+{
+ "name": "circular_ring_head",
+ "description": "circular_ring around a talking head: the person stays live in the middle, the card ring orbits them (far half behind, near half in front), cards are portraits of the speaker.",
+ "duration": 5.6,
+ "timing": "loop",
+ "tracks": {},
+ "plugin": "circular_ring.py",
+ "params": {
+  "mode": "around_subject",
+  "radius": 700,
+  "ring_to_face": 2.1,
+  "card_scale": 0.72,
+  "tilt": -26,
+  "ring_y": 0.1,
+  "dim": 0,
+  "ground": true,
+  "subtitle": false,
+  "faces": "devops"
+ }
+}

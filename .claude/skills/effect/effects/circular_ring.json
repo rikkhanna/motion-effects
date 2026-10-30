@@ -1,0 +1,15 @@
+{
+ "name": "circular_ring",
+ "description": "3D ring carousel of rounded, full-bleed cards with DevOps tool logos (Docker, Kubernetes, AWS, Azure, GCP, Terraform, ...); 8-10 cards, stepped push-and-dock, seamless loop, lime rim on the front card. --set card_style=classic for the framed panels, faces=stills for video stills, mode=around_subject to orbit a talking head.",
+ "duration": 5.6,
+ "timing": "loop",
+ "tracks": {},
+ "plugin": "circular_ring.py",
+ "params": {
+  "radius": 700,
+  "tilt": -9,
+  "bg_video": 0.15,
+  "reflection": true,
+  "faces": "devops"
+ }
+}

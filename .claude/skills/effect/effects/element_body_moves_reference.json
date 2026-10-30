@@ -1,0 +1,18 @@
+{
+ "name": "element_body_moves_reference",
+ "description": "element_body_moves styled like the reference clip (element-body-moves.mov): light desk, 'Pick your shot.' headline, three shot-recipe cards with number chips.",
+ "duration": 5.0,
+ "timing": "once",
+ "tracks": {},
+ "plugin": "element_body_moves.py",
+ "params": {
+  "background": "desk",
+  "title": "Pick your shot.",
+  "caption": "Shot recipes · Launch film",
+  "items": [
+   {"title": "Whip pan", "value": "8f", "text": "A blurred hand-off between two scenes.", "chips": 7, "chips_on": [2, 4]},
+   {"title": "Crash zoom", "value": "12f", "text": "Punch in on the number that matters.", "chips": 7, "chips_on": [1, 3, 5, 6]},
+   {"title": "Logo sting", "value": "24f", "text": "Lands the mark on the final downbeat.", "chips": 7, "chips_on": [1, 2, 3, 4, 5]}
+  ]
+ }
+}
